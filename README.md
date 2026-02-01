@@ -23,6 +23,6 @@ Python and Node.js on the backend. React for web, Flutter for mobile. I pick the
 
 </div>
 
-## 💭 Philosophy
+## Philosophy
 
 I don't overcomplicate things. If it works, it ships. If it breaks, I fix it fast. Simple code, real problems, actual solutions.
